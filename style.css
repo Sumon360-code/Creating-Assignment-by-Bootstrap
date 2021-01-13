@@ -86,11 +86,6 @@ width: 100%;
     font-size: 18px;
 }
 
-
-
-/* media querry  */
-@media screen (max-width:768px){
-    .for-left-img{
-        max-width: 50%;
-    }
+footer{
+    margin-top: 100px;
 }
