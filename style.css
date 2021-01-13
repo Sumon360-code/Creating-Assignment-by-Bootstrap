@@ -1,0 +1,96 @@
+
+.logo-left{
+    width: 40%;
+}
+ul{
+    margin-left: 12.9rem;
+}
+nav ul li a{
+    color: #555;
+}
+.btn-header {
+    padding: 12px 20px;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: #9BB439;
+    text-shadow: 1px 0px 59px;
+}
+.header-main{
+    background-color:#fcf8e8 ;
+    padding: 20px 0;
+}
+.col-md-7 img {
+    margin-left: 6rem;
+    width: 23rem;
+    margin-top: -2rem;
+}
+.header-hero-section{
+    margin-top: 5rem;
+}
+h1{
+    font-size: 45px;
+    text-transform: uppercase;
+}
+.for-img-bg{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+.content-border {
+    border: none;
+    box-shadow: 3px 3px 9px -3px #ddd;
+    padding: 17px;
+}
+img{
+    max-width: 100%;
+}
+.footer-border{
+    border: none;
+    background-color: #fff;
+}
+a{
+    text-decoration: none;
+}
+.for-image-width img {
+    height: 20rem;
+    padding: 1rem;
+}
+.for-left-img {
+    width: 5rem;
+    margin-right: 2rem;
+}
+.for-contetnt h2 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.for-contetnt p{
+font-size: 0.8rem;
+}
+.for-shadow {
+    box-shadow: 1px 4px 9px 0px #ddd;
+    margin-right: 1rem;
+    border-radius: 0.5rem;
+}
+.for-img-right img{
+width: 100%;
+}
+.selling-section{
+    margin-top: 5rem;
+}
+.team-section{
+    margin-top: 150px;
+}
+.team-section .col-lg-3 a{
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+
+
+/* media querry  */
+@media screen (max-width:768px){
+    .for-left-img{
+        max-width: 50%;
+    }
+}
