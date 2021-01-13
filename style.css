@@ -3,7 +3,7 @@
     width: 40%;
 }
 ul{
-    margin-left: 12.9rem;
+    margin-left: 12.3rem;
 }
 nav ul li a{
     color: #555;
@@ -15,6 +15,13 @@ nav ul li a{
     border-radius: 5px;
     background-color: #9BB439;
     text-shadow: 1px 0px 59px;
+}
+.left-logo{
+    margin-left: 2rem;
+}
+nav{
+    background-color:#fcf8e8; 
+
 }
 .header-main{
     background-color:#fcf8e8 ;
@@ -82,8 +89,8 @@ width: 100%;
     margin-top: 150px;
 }
 .team-section .col-lg-3 a{
-    margin-right: 10px;
-    font-size: 18px;
+    margin-right: 0.7rem;
+    font-size: 1.1rem;
 }
 
 footer{
