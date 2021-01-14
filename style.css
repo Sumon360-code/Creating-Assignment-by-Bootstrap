@@ -96,3 +96,51 @@ width: 100%;
 footer{
     margin-top: 100px;
 }
+
+
+
+
+@media screen and (max-width: 768px) {
+
+    .col-md-7 img {
+      
+        width: 100%;
+        padding: 20px;
+        margin: auto;
+        
+    }
+    .for-left-img{
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+       
+    }
+    .for-contetnt{
+        width: 100%;
+        text-align: center;
+      
+       
+    }
+    .for-shadow {
+        border-radius: 0.5rem;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+        font-size: 30px;
+    }
+.col-md-6{
+    text-align: center;
+    margin: auto;
+}
+.col-md-3{
+    width: 100%;
+    text-align: center;
+}
+.col-md-3 img{
+ max-width: 100%;
+ width: 100%;
+ padding: 20px;
+}
+
+
+}
